@@ -1,5 +1,5 @@
 {
-  "name": "Simple Chat with Search and Calculator",
+  "name": "AI Workflow Automation with Tool Integration - Jamesina Crawford",
   "nodes": [
     {
       "parameters": {
@@ -29,7 +29,7 @@
         32
       ],
       "id": "892e84d0-eb72-4a98-9183-b5547267b6f9",
-      "name": "AI Agent"
+      "name": "Decision Support AI Agent"
     },
     {
       "parameters": {},
@@ -40,7 +40,7 @@
         256
       ],
       "id": "6551f82a-b7a5-4012-8888-dcbbbac8f6d0",
-      "name": "Simple Memory"
+      "name": "Conversation Memory Buffer"
     },
     {
       "parameters": {},
